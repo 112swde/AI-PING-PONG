@@ -1,0 +1,22 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    width : 100%;
+    font-size: 25px;
+}
+
+.heading h3
+{
+    font-size: 23px;
+    float: left;
+}
+
+#instructions
+{
+    float: right;
+    font-size: 18px;
+}
