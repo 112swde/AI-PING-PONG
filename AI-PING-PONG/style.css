@@ -20,3 +20,36 @@ body
     float: right;
     font-size: 18px;
 }
+
+#reset 
+{
+    float: right;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.modal-body
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#reset
+{
+    background-color: black;
+    font-size: 20px;
+    width: 60px;
+}
+
+.copyright_header
+{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: azure;
+    line-height: 3;
+    text-align: center;
+
+}
