@@ -53,3 +53,10 @@ body
     text-align: center;
 
 }
+
+canvas
+{
+    box-shadow: 5px 5px 5px beige;
+    padding-bottom: 15px;
+    border-radius: 10px;
+}
